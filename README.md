@@ -1,5 +1,5 @@
 ## Overview of the Analysis
-- We were given the task of creating an additional five visualizations, with the two we created in the module, to create a presentation to putch to investors. We were to further break down the NYC citibike data to better display the information.
+- We were given the task of creating an additional five visualizations, with the two we created in the module, to create a presentation to pitch to investors. We were to further break down the NYC citibike data to better display the information. We created visualizations that show peak times for user trips, customer trips vs subscriber trips, starting stations and their popularity and checkout time averages broken down by gender.
 --------------------------
 ## Resources
 - [Link to Final Dashboard](https://public.tableau.com/app/profile/nicholas.weyenberg/viz/NYC-Citibike-Data/Story1)
