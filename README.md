@@ -15,5 +15,6 @@
 ![image7](https://user-images.githubusercontent.com/80421977/123153570-6bab4200-d42b-11eb-875c-94f81f94a296.PNG)
 --------------------------
 ## Summary
-- 
+- In conclusion, we created seven visualizations that can be used to make critical business decisions about citibike in NYC. Information such as peak times and popular starting points can be analyzed and used to make decisions to better prepare for the rush of users. Information about customer trips vs subscriber trips can be used to see how we can get more subscribers. We can use checkout times to better see how we can get our users to checkout quickly and efficiently.
+- Two additional visualizations we can create could be about the end stations and their popularity. We could then compare their popularity with the start stations to uncover trends. Another visualization we could create would be comparing usertype(customer/subscriber) and age of the user to determine if there is a trend there. We used gender in our visualizations above but we can change gender for age(birth year).
 
